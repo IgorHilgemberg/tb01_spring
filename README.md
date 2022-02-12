@@ -4,7 +4,7 @@ Uma api para visualizar e analisar pagamentos de jogadores de futebol mensalista
 
 ## Membros da equipe
 * Igor Hilgemberg - RA: 17162426
-* Eduardo Patrick - RA: 172
+* Eduardo Patrick - RA: 17219226
 
 ## Descrição do trabalho
 Trabalho acadêmico de um sistema gerenciamento de pagamentos simplista de jogadores de futebol mensalistas realizado para a disciplina de Desenvolvimento Web da UEPG.
